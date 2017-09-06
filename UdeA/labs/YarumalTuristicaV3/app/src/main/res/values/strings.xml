@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">YarumalTuristica</string>
+    <string name="username">Nombre de Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login">INICIAR SESIÓN</string>
+    <string name="register">Registrarse</string>
+    <string name="create_account">Crear Cuenta</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="password_repeat">Repetir Contraseña</string>
+    <string name="invalid_data">Datos Inválidos</string>
+    <string name="invalid_username">Nombre de usuario inválido</string>
+    <string name="invalid_password">Contraseña inválida</string>
+    <string name="invalid_email">Email inválido</string>
+    <string name="password_does_not_match">Contraseña no coincide</string>
+    <string name="register_error">Error en el registro</string>
+    <string name="cancel">CANCELAR</string>
+
+    <string name="close_session">Cerrar Sesión</string>
+    <string name="yarumal_main_page">
+
+        Yarumal es un municipio localizado en la subregión norte del departamento
+        de Antioquia, Posee múltiples entidades culturales como la casa
+        de la cultura Francisco Antonio Cano, el Museo Monseñor Juan N. Rueda, Basílica de
+        Nuestra Señora de la Merced y la Capilla del Carmen. Posee diferentes y hermosos sitios
+        ecológicos asi como también goza de múltiples festividades como las Fiestas del Yarumo
+        y el festival de poesía \"A la sombra de un yarumo\".
+
+    </string>
+    <string name="main">Principal</string>
+    <string name="myProfile">Mi Perfil</string>
+    <string name="events">Eventos</string>
+    <string name="pubs">Bares</string>
+    <string name="restaurants">Restaurantes</string>
+    <string name="hotels">Hoteles</string>
+    <string name="touristic_sites">Sitios Turísticos</string>
+    <string name="pub">PUB</string>
+    <string name="restaurant">RESTAURANT</string>
+    <string name="hotel">HOTEL</string>
+    <string name="touristic_site">TOURISTIC</string>
+
+    <string name="title_activity_establishment">Establecimientos</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+    <string name="hotel1">
+
+        EL hotel Amajari\nDirección Cr 20 19 - 19\nOfrece un Servicio de hospedaje cómodo y barato. Es perfecto para los
+        turistas que desean ahorrar su dinero hospedándose en habitaciones
+        sencillas.
+
+    </string>
+
+    <string name="hotel2">
+
+
+        EL hotel Balcón del paraiso\nDirección Cr 20 19 - 45\nOfrece un Servicio de hospedaje equilibrado en cuando a costo y lujos. Es perfecto para los
+        turistas que desean un buen servicio de hospedaje a un módico precio.
+
+    </string>
+    <string name="hotel3">
+
+
+        EL Gran Hotel Yarumal\nDirección Cr 20 21 - 25\nEn este encontrarás: Buen Servicio, atención con calidad, Wi - Fi,
+        televisión en cada cuarto, servicio de parabólica, baños privados y fácil acceso a parqueo.
+
+    </string>
+    <string name="restaurant1">rest1</string>
+    <string name="restaurant2">rest2</string>
+    <string name="restaurant3">rest3</string>
+    <string name="touristic1">
+
+        Basílica Menor Nuestra Señora de La Merced\nDirección: Parque Principal\nEs una basílica colombiana de culto
+        católico con un estilo neorrenacentista\nLa iglesia alberga varios elementos artísticos, entre los que destaca el lienzo de la
+        Virgen de la Merced que data de 1789 y es considerado milagroso. También está el altar
+        principal en forma de templete o medio baldaquino, construido en mármol de varios colores.
+        Igualmente destaca el pavimento del testero, el cual posee artísticos dibujos elaborados en mármol.
+
+    </string>
+    <string name="touristic2">
+
+        La Escuela Rosenda Torres Villareal.\nDirección carrera 19 Nro. 19-36\nConstrucción de estilo renacentista.
+        Lleva este nombre en honor a Rosenda Torres Villareal, oriunda del municipio, quien fue pedagoga.
+        Este lugar cuenta con una admirable fachada que armoniza con la iglesia La Merced.\nLos planos fueron
+        levantados en la década de 1920 por el arquitecto belga Agustin Goovaerts.
+
+    </string>
+    <string name="touristic3">
+
+        Museo Juan Nepomuceno Rueda\nDirección: Carrera 16 No. 17 - 12\nSitio ideal para conocer sobre la historia de Yarumal. Se fundó en 1969 y la obra más
+        importante es el Señor Caído, tallada por Luis Zapata Ceballos, que data de 1886.
+
+    </string>
+
+    <string name="section_page_format"> %1$s %2$d</string>
+    <string name="title_activity_main">Yarumal Turística</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="single_event_string">Evento patrocinado por la alcaldía de Yarumal</string>
+
+</resources>

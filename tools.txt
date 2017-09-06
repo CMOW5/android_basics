@@ -1,0 +1,2 @@
+genymotion:		android emulator
+SqliteManager:	SQlite tool

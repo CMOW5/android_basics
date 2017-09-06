@@ -1,0 +1,28 @@
+Geoquiz:
+1 	: Basic application
+2 	: Model view Controller model
+3 	: Activity lifecicle, Bundle Ex
+4 	: Debugging Android apps, Log Ex
+5 	: Intent, communication between activities
+6 	: Android SDK versions and compatibility
+
+CriminalIntent:
+1 		: Fragments and the FragmentManager
+2 		: Layouts and widgets	 
+3 		: Lists with RecycleView
+3_1 	: Lists with RecycleView CUSTOMIZED
+4 		: Using Fragments Arguments (bundle)
+4_1 	: Using Fragments Arguments (bundle) challenge OK
+5 		: Using ViewPager
+5_1 	: Using ViewPager (checkbox status fixed)
+6 		: Dialogs
+6_1 	: Dialogs challenge 1 FALTA
+6_1 	: Dialogs challenge 2 FALTA
+7		: The Toolbar
+7_1		: The Toolbar challenge 1 FALTA
+7_2		: The Toolbar challenge 2 FALTA
+7_3		: The Toolbar challenge 3 FALTA
+8		: SQL Database
+8_1		: SQL Database challenge FALTA
+9		: Implicit intents
+10		: taking pictures with intents

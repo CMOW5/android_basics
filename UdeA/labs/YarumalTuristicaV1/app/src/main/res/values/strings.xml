@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">YarumalTuristica</string>
+    <string name="username">Nombre de Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login">INICIAR SESIÓN</string>
+    <string name="register">Registrarse</string>
+    <string name="create_account">Crear Cuenta</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="password_repeat">Repetir Contraseña</string>
+    <string name="invalid_data">Datos Inválidos</string>
+    <string name="invalid_username">Nombre de usuario inválido</string>
+    <string name="invalid_password">Contraseña inválida</string>
+    <string name="invalid_email">Email inválido</string>
+    <string name="password_does_not_match">Contraseña no coincide</string>
+    <string name="register_error">Error en el registro</string>
+    <string name="cancel">CANCELAR</string>
+    <string name="myProfile">Mi Perfil</string>
+    <string name="close_session">Cerrar Sesión</string>
+    <string name="yarumal_main_page">
+
+        Yarumal es un municipio localizado en la subregión norte del departamento
+        de Antioquia, Posee múltiples entidades culturales como la casa
+        de la cultura Francisco Antonio Cano, el Museo Monseñor Juan N. Rueda, Basílica de
+        Nuestra Señora de la Merced y la Capilla del Carmen. Posee diferentes y hermosos sitios
+        ecológicos asi como también goza de múltiples festividades como las Fiestas del Yarumo
+        y el festival de poesía \"A la sombra de un yarumo\".
+
+    </string>
+    <string name="Main">Principal</string>
+</resources>

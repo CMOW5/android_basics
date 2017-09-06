@@ -1,0 +1,12 @@
+ActivityBasics1:			Passing data between activities using intent's extras, 
+							and using intent Flag clear top
+
+FragmentBasics1:			Single activity hosting a single frangment
+
+FragmentBasics2:			Single activity hosting two fragments, one at a time
+
+FragmentBasics3:			Communicatings 2 fragments from an activity
+
+RecyclerViewBasics1:		Basic recycler view in another class
+
+RecyclerViewBasics2:		Basic recycler view inside a fragment

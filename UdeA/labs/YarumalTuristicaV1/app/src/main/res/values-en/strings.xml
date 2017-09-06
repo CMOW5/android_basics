@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TouristicYarumal</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOG IN</string>
+    <string name="register">Register</string>
+    <string name="create_account">Create Account</string>
+    <string name="email">Email</string>
+    <string name="password_repeat">Repeat Password</string>
+    <string name="invalid_data">Invalid Data</string>
+    <string name="invalid_username">Invalid Username</string>
+    <string name="invalid_password">Invalid Password</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="password_does_not_match">These passwords don\'t match</string>
+    <string name="register_error">Registry Error</string>
+    <string name="cancel">CANCEL</string>
+    <string name="myProfile">My Profile</string>
+    <string name="close_session">Log Out</string>
+    <string name="yarumal_main_page">
+
+
+        Yarumal is a municipality located in the north subregion of the department of Antioquia
+        It has multiple cultural entities like the house Of the Francisco Antonio Cano culture,
+        the Museo Monseñor Juan N. Rueda, Our Lady of Mercy and the Chapel of Carmen.
+        It has different and beautiful Ecological places as well as it enjoys multiple festivities
+        like the Yarumo\'s parties And the festival of poetry \"In the shadow of a yarumo\"
+
+    </string>
+
+    <string name="Main">Main</string>
+
+</resources>

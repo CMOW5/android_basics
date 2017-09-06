@@ -1,0 +1,53 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="20dp"
+    android:paddingEnd="20dp"
+    android:paddingStart="20dp"
+    android:paddingBottom="20dp"
+    tools:context="com.example.cristian.dialogbasics1.MainFragment"
+    android:orientation="vertical"
+    >
+
+
+    <Button
+        android:id="@+id/button_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="DatePickerDialog"
+        />
+
+    <Button
+        android:id="@+id/button_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TimePickerDialog"
+        />
+
+    <Button
+        android:id="@+id/button_custom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CustomDialog"
+        />
+
+    <Button
+        android:id="@+id/button_custom2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Custom blocking Dialog "
+        />
+
+    <TextView
+        android:id="@+id/text_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="20dp"
+        android:text="DATOS"
+        android:textSize="20dp"
+        android:textAlignment="center"
+        />
+
+</LinearLayout>

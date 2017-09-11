@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    The -sw600dp configuration qualifier lets you provide resources
+    only when a device is above a certain size. The sw stands for “smallest width,”
+    but refers to the screen’s smallest dimension, and thus is independent of the
+    device’s current orientation. With a -sw600dp qualifier, you are saying,
+    “Use this resource on any device whose smallest dimension is 600dp or greater.”
+-->
+
+<resources>
+
+    <item name="activity_masterdetail" type="layout">@layout/activity_twopane</item>
+
+</resources>

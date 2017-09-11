@@ -26,3 +26,4 @@ CriminalIntent:
 8_1		: SQL Database challenge FALTA
 9		: Implicit intents
 10		: taking pictures with intents
+11:		: Two pane master-detail interfaces

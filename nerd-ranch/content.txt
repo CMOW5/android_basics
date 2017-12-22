@@ -27,3 +27,7 @@ CriminalIntent:
 9		: Implicit intents
 10		: taking pictures with intents
 11:		: Two pane master-detail interfaces
+
+BeatBox:
+1		: Assets
+2		: Audio Playback with SoundPool

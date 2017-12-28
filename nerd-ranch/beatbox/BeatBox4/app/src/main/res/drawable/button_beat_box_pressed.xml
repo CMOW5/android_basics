@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!-- You specified two drawables in this layer list drawable.
+    The first drawable is a red circle -->
+<item>
+    <shape
+        android:shape="oval">
+        <solid
+            android:color="@color/red"/>
+    </shape>
+</item>
+
+<!-- The second drawable will be drawn on top of the first.
+     In the second drawable, you specified another oval with a stroke
+     of 4dp. This will create a ring of dark red.
+-->
+<item>
+    <shape
+        android:shape="oval">
+        <stroke
+            android:width="4dp"
+            android:color="@color/dark_red"/>
+    </shape>
+</item>
+
+</layer-list>

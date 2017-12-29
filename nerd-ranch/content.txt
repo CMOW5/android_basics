@@ -33,3 +33,6 @@ BeatBox:
 2		: Audio Playback with SoundPool
 3		: Styles and themes
 4		: XML drawables
+
+NerdLauncher 
+1		: More about intents and tasks	

@@ -36,3 +36,6 @@ BeatBox:
 
 NerdLauncher 
 1		: More about intents and tasks	
+
+PhotoGallery
+1		: http and backgorund Tasks

@@ -40,3 +40,4 @@ NerdLauncher
 PhotoGallery
 1		: http and backgorund Tasks
 2		: Loopers, handlers and handlerThread
+3		: SearchView and shared preferences
